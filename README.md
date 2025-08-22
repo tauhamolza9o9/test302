@@ -20,7 +20,7 @@
 
 ## 📜 spector-sec's Decree (About Me)
 
-> *"In the realm of cybersecurity, I serve as a guardian of digital kingdoms, fortifying defenses and uncovering vulnerabilities before they can be exploited by adversaries."*
+> *"In the realm of cybersecurity, I serve as a guardian of digital kingdoms, fortifying defenses and uncovering vulnerabilities before they can be exploited by adversaries connect with me for top bug bounty opproaches and methodology to hunt like master and before others."*
 
 I am a **Cyber Security Strategist** and **Bug Bounty Hunter** with extensive experience in securing government digital infrastructure and private sector applications. My expertise lies in identifying critical vulnerabilities and architecting robust security frameworks that withstand even the most sophisticated attacks.
 
