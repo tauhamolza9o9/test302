@@ -10,7 +10,7 @@
 
 </div>
 
-## 👑 The Cyber Command Center
+
 
 <div align="center">
   
@@ -18,7 +18,7 @@
 
 </div>
 
-## 📜 Royal Decree (About Me)
+## 📜 spector-sec's Decree (About Me)
 
 > *"In the realm of cybersecurity, I serve as a guardian of digital kingdoms, fortifying defenses and uncovering vulnerabilities before they can be exploited by adversaries."*
 
