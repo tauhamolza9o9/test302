@@ -24,12 +24,12 @@
 
 I am a **Cyber Security Strategist** and **Bug Bounty Hunter** with extensive experience in securing government digital infrastructure and private sector applications. My expertise lies in identifying critical vulnerabilities and architecting robust security frameworks that withstand even the most sophisticated attacks.
 
-- 🏛️ **Royal Cyber Commission**: Secured multiple government digital assets
+- 🏛️ **Cyber Commission (i am the guard)**: Secured multiple government digital assets
 - 🛡️ **Elite Bug Bounty Hunter**: Recognized by HackerOne and Bugcrowd for critical findings
 - 📜 **Security Architect**: Developer of advanced penetration testing methodologies
 - 📖 **Knowledge Keeper**: Creator of educational content for aspiring security professionals
 
-## 🏆 Royal Achievements
+## 🏆 Mine Achievements
 
 <div align="center">
 
@@ -49,7 +49,7 @@ I am a **Cyber Security Strategist** and **Bug Bounty Hunter** with extensive ex
   
 </div>
 
-## 🗡️ Royal Arsenal (Technologies & Tools)
+## 🗡️ Skills (Technologies & Tools)
 
 ### 🛡️ Defense Systems
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
@@ -68,7 +68,7 @@ I am a **Cyber Security Strategist** and **Bug Bounty Hunter** with extensive ex
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-## 📊 Royal Intelligence (Activity Metrics)
+## 📊 Intelligence (Activity Metrics)
 
 <div align="center">
 
@@ -76,27 +76,27 @@ I am a **Cyber Security Strategist** and **Bug Bounty Hunter** with extensive ex
   
 </div>
 
-## 📜 Royal Manuscripts (Latest Projects)
+## 📜 Manuscripts (Latest Projects)
 
 | Project | Description | Status |
 | :--- | :--- | :--- |
-| **CrownJewel Scanner** | Advanced vulnerability assessment tool | ![Active](https://img.shields.io/badge/Status-Active-00AA00?style=flat-square) |
-| **RoyalGuard WAF** | Next-gen web application firewall | ![Development](https://img.shields.io/badge/Status-Development-FFAA00?style=flat-square) |
-| **ThroneRoom Pentest** | Comprehensive penetration testing framework | ![Stable](https://img.shields.io/badge/Status-Stable-0088FF?style=flat-square) |
+| **NUERAEXPLOIT** | Advanced vulnerability assessment tool with recon and exploitation | ![Development](https://img.shields.io/badge/Status-Development-00AA00?style=flat-square) |
+| **brkGuard-WAF** | Next-gen web application firewall bypass | ![Development](https://img.shields.io/badge/Status-Development-FFAA00?style=flat-square) |
+| **nuclei-tamplates and payloads** | Comprehensive penetration testing framework | ![Stable](https://img.shields.io/badge/Status-Stable-0088FF?style=flat-square) |
 
-## 🏰 Royal Court (Connect With Me)
+## 🏰 Court (Connect With Me)
 
 <div align="center">
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@hacksys)
 [![HackerOne](https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com)
 [![Bugcrowd](https://img.shields.io/badge/Bugcrowd-0B6639?style=for-the-badge&logo=bugcrowd&logoColor=white)](https://bugcrowd.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com](https://www.linkedin.com/in/spector-sec-139425344?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@hacksys__)
   
 </div>
 
-## 💰 Support the Royal Guard
+## 💰 Support the Guard
 
 <div align="center">
 
