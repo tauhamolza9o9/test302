@@ -82,7 +82,7 @@ I am a **Cyber Security Strategist** and **Bug Bounty Hunter** with extensive ex
 | :--- | :--- | :--- |
 | **NUERAEXPLOIT** | Advanced vulnerability assessment tool with recon and exploitation | ![Development](https://img.shields.io/badge/Status-Development-00AA00?style=flat-square) |
 | **brkGuard-WAF** | Next-gen web application firewall bypass | ![Development](https://img.shields.io/badge/Status-Development-FFAA00?style=flat-square) |
-| **nuclei-tamplates and payloads** | Comprehensive penetration testing framework | ![Stable](https://img.shields.io/badge/Status-Stable-0088FF?style=flat-square) |
+| **nuclei-tamplates and payloads** | Comprehensive penetration testing | ![Stable](https://img.shields.io/badge/Status-Stable-0088FF?style=flat-square) |
 
 ## 🏰 Court (Connect With Me)
 
@@ -91,7 +91,7 @@ I am a **Cyber Security Strategist** and **Bug Bounty Hunter** with extensive ex
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@hacksys)
 [![HackerOne](https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com)
 [![Bugcrowd](https://img.shields.io/badge/Bugcrowd-0B6639?style=for-the-badge&logo=bugcrowd&logoColor=white)](https://bugcrowd.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com](https://www.linkedin.com/in/spector-sec-139425344?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/spector-sec-139425344?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@hacksys__)
   
 </div>
