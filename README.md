@@ -10,7 +10,7 @@
 
 </div>
 
-## 👑 Royal Cyber Command Center
+## 👑 The Cyber Command Center
 
 <div align="center">
   
